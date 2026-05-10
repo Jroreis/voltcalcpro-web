@@ -1,0 +1,8 @@
+cd /home/ubuntu/voltcalcpro-web
+
+git remote set-url origin https://github.com/SEU_USUARIO/voltcalcpro-web.git
+
+git branch -M main
+
+git push -u origin main
+
